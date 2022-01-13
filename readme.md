@@ -7,6 +7,8 @@
 # get pods list
 `kubectl get pods`
 
+# create deployments with kubernetes
+`kubectl apply -f <deployment config file>`
 # Troubleshoot Kubernetes on Mac
 
 you might have to switch kubectl context to docker desktop kubernetes cluster
